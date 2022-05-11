@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 😄 I wish I could retire in my 40s...
 
 
-![warson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![warson's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenLoong&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenLoong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
