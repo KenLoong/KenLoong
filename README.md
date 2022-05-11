@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on go
 - 🌱 I’m currently learning go
 - 😄 I wish I could retire in my 40s...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+![warson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
