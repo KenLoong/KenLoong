@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on go
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning javascript and react
 - 😄 I wish I could retire in my 40s...
 
 
