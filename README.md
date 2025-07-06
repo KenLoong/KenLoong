@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on go
+- 🔭 I’m currently working on go and python
 - 🌱 I’m currently learning javascript and react
-- 😄 I wish I could retire in my 40s...
 
 
 
